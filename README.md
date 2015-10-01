@@ -4,7 +4,7 @@
 ####基本资料
 ---
 >+ **学校：黄冈职业技术学院-计算机网络(2005-2008)**
->+ **手机：18602708138**
+>+ **手机：15629194033**
 >+ **邮箱：250047169@qq.com**
 
 ####个人特点
@@ -32,7 +32,12 @@
 		<th>部门</th>
 	</tr>
 	<tr>
-		<td>2013.4 -- 至今</td>
+		<td>2014.4 -- 至今</td>
+		<td>武汉大博</td>
+		<td>技术部</td>
+	</tr>
+	<tr>
+		<td>2013.4 -- 2014.3</td>
 		<td>武汉融贯资讯</td>
 		<td>研发部</td>
 	</tr>
@@ -57,6 +62,10 @@
 	<tr>
 		<th>项目</th>
 		<th>涉及技术</th>
+	</tr>
+	<tr>
+		<td>云碟服务端</td>
+		<td>Asp.net MVC5、Asp.net WebAPI、WCF、Entity Framework、RabbitMQ、windows service、MSSQL、MongoDB、Redis、Jquery、Bootstrap</td>
 	</tr>
 	<tr>
 		<td>(产品代号：ianylearn)爱淘学</td>
